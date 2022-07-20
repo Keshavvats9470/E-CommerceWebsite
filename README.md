@@ -16,6 +16,14 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
+## SCREENSHOTS
+![](screenshots/E-comm1.jpg)
+![](screenshots/E-comm2.jpg)
+![](screenshots/E-comm3.jpg)
+![](screenshots/E-comm5.jpg)
+![](screenshots/E-comm6.jpg)
+![](screenshots/E-comm7.jpg)
+
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
